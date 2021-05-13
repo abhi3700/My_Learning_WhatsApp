@@ -54,3 +54,4 @@ ngrok by @inconshreveable                                                       
 * [Console: Get the SSID, Auth token from here](https://www.twilio.com/console)
 * [Get started with the Twilio Sandbox for WhatsApp](https://www.twilio.com/docs/whatsapp/sandbox)
 * [Webhook](https://www.twilio.com/docs/glossary/what-is-a-webhook)
+* [Mridu Bhatnagar: Building a Conversational Bot for WhatsApp w/Twilio & Python](https://www.youtube.com/watch?v=dqab-FcAirA)
